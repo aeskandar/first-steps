@@ -28,4 +28,10 @@ public boolean hit = false;
       System.out.println(" the Car is Hit");
     }
   }
+
+  public void gitIsAwesome() {
+    System.out.println("this git branching thing is really awesome ");
+  }
+
+
 }
