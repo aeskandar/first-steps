@@ -28,4 +28,8 @@ public boolean hit = false;
       System.out.println(" the Car is Hit");
     }
   }
+
+  jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+  kkkkkkkkkkkkkkkkkkkkkk
+  kkkkkksssssssssskkkkaaaaa
 }
