@@ -29,9 +29,15 @@ public boolean hit = false;
     }
   }
 
+<<<<<<< HEAD
   public void gitIsAwesome() {
     System.out.println("this git branching thing is really awesome ");
   }
 
 
+=======
+  jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+  kkkkkkkkkkkkkkkkkkkkkk
+  kkkkkksssssssssskkkkaaaaa
+>>>>>>> testing
 }
