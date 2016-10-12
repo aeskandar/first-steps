@@ -1,6 +1,6 @@
 public class Car {
 public String model;
-private int speed;
+public int speed;
 private int maxSpeed = 240;
 
   public Car(String model) {
@@ -14,5 +14,11 @@ private int maxSpeed = 240;
 
   public void setModel(String model) {
     this.model = model;
+  }
+
+  public void slert() {
+    if (speed > maxspeed/2){
+      System.out.println("Carefull you passed the .....");
+    }
   }
 }
