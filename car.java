@@ -1,4 +1,4 @@
-public class Car {
+public class Car extends veihcle {
 public String model;
 public int speed;
 private int maxSpeed = 240;
